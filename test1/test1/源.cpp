@@ -9,7 +9,7 @@
 void main() {
 
 	printf("Hello World in Windows10 With VisualStudio2017 Enterprise");
-	getchar(); //等待输入任意字符退出程序
+	getchar(); //等待输入任意字符退出程序，，
 }
 //-------------------- -
 //作者：boy_cto_tony
